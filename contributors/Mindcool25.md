@@ -1,4 +1,4 @@
-# Your Name
+# Mindcool
 
 - **GitHub:** [@mindcool25](https://github.com/Mindcool25)
 - **Favorite open-source project:** Linux
